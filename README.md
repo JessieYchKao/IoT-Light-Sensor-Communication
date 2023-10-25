@@ -4,6 +4,8 @@
 
 This project is designed to demonstrate the communication between a Raspberry Pi and an ESP8266 microcontroller using a photoresistor (analog light sensor). The Raspberry Pi is equipped with a button and four LEDs (Red, Yellow, Green, and White). The ESP8266 collects light sensor data and communicates it to the Raspberry Pi.
 
+[Watch Demo Video](https://drive.google.com/file/d/1WrScIqkv76lKfiEBr7FWv31vHqEYWnRY/view?usp=drive_link)
+
 ## Components
 
 - Raspberry Pi
