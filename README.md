@@ -52,14 +52,14 @@ The system operates as follows:
 2. IC2 communication is established via SCL and SDA pins, connected to D1 and D2.
 3. The photoresistor is connected to the A0 pin with a resistor in between.
 
-![schematic](images/schematic_ESP8266.jpg)
+![schematic](images/schematic_ESP8266.png)
 
 **Raspberry Pi**
 1. A push button is connected to the RXD0 pin with a pull-down resistor.
 2. The white LED is connected to the GPIO 18 pin with a resistor.
 3. Three LEDs (green, yellow, red) are connected to the GPIO 17, 27, and 22 with resistors.
 
-![schematic](images/schematic_Raspberry.jpg)
+![schematic](images/schematic_Raspberry.png)
 
 
 
