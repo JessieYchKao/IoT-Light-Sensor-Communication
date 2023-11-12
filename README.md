@@ -81,4 +81,3 @@ The system operates as follows:
 ## Acknowledgments
 
 - This project was originally designed as a school project by Professor Quoc-Viet Dang.
-- We would like to express our gratitude to [Professor's Name] for their guidance and mentorship throughout this project.
